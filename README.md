@@ -4,7 +4,7 @@ A simple web application that displays quotes from Kanye that can be used as cap
 ## Technologies Used 
 * HTML
 * CSS
-* Javascript(jQuery)
+* Javascript
 * Google Fonts 
 * Fontawesome
 * Kanye quote API
